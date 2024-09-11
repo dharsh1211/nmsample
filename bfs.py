@@ -11,6 +11,7 @@ grp={"14":["12","16"],
      }
 vis=[]
 que=[]
+#new indication
 def bfs(grp,node,vis):
   vis.append(node)
   que.append(node)
